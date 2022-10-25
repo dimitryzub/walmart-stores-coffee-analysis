@@ -28,6 +28,10 @@ Kaggle Dataset: https://www.kaggle.com/datasets/dimitryzub/walmart-coffee-listin
 6. ~300-500 grams is the most frequent weight.
 7. The highest coffee price is $77 (Lavazza perfetto single-serve k-cup)
 
+## Data Sources
+
+Walmart. Data was extracted using [Walmart Search Engine Results API](https://serpapi.com/walmart-search-api) from SerpApi.
+
 ## Plots
 
 ![image](https://user-images.githubusercontent.com/78694043/197485001-8b89ea37-c1fe-44ab-bcc9-6ceaaea0dd53.png)
