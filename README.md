@@ -15,6 +15,8 @@ This repo covers:
 
 There's also a full blog post that also shows data extraction steps: https://serpapi.com/blog/serpapi-demo-project-walmart-coffee-exploratory-data-analysis/#extracting-walmart-data
 
+Kaggle Dataset: https://www.kaggle.com/datasets/dimitryzub/walmart-coffee-listings-from-500-stores
+
 ## Key Takeaways
 
 1. The most popular coffee seller is Walmart.
