@@ -1,4 +1,4 @@
-Walmart Stores Coffee Analysis
+# Walmart Stores Coffee Analysis
 
 This Python demo project is a practical showcase of using [SerpApi's](https://serpapi.com/) [Walmart Search Engine Results API](https://serpapi.com/walmart-search-api) plus how extracted data could be used in exploratory data analysis.
 
