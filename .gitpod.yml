@@ -1,0 +1,17 @@
+tasks:
+  - name: Update Linux and Install other Dependencies
+    init: |
+      sudo apt-get update -y && sudo apt-get upgrade -y
+  - name: Create VirtualEnv, Install Python Dependencies
+    init: |
+      python -m venv venv
+      source virtual-env/bin/activate
+      pip install -r requirements.txt
+vscode:
+  extensions:
+    - usernamehw.errorlens
+    - vscode-icons-team.vscode-icons
+    - bierner.markdown-preview-github-styles
+    - ms-python.python
+    - KevinRose.vsc-python-indent
+    - eamodio.gitlens
