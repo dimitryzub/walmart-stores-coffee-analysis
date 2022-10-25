@@ -13,11 +13,11 @@ There's also a full blog post that also shows data extraction steps: https://ser
 
 ## Key Takeaways
 
-1. The Most popular coffee seller is Walmart.
-2. The Most popular coffee type is medium roast. 
+1. The most popular coffee seller is Walmart.
+2. The most popular coffee type is medium roast. 
 3. More weight (grams) doesn't equal higher price.
     - A lower gram coffee may cost more than a higher gram coffee.
-4. The Highest coffee weight is 2835 grams (2.8 kg).
+4. The highest coffee weight is 2835 grams (2.8 kg).
 5. "Folgers classic roast ground coffee" has 15k+ reviews which is the maximum value from data set.
 6. ~300-500 grams is the most frequent weight.
-7. The Highest coffee price is $77 (Lavazza perfetto single-serve k-cup)
+7. The highest coffee price is $77 (Lavazza perfetto single-serve k-cup)
