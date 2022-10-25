@@ -21,3 +21,22 @@ There's also a full blog post that also shows data extraction steps: https://ser
 5. "Folgers classic roast ground coffee" has 15k+ reviews which is the maximum value from data set.
 6. ~300-500 grams is the most frequent weight.
 7. The highest coffee price is $77 (Lavazza perfetto single-serve k-cup)
+
+## Plots
+
+![image](https://user-images.githubusercontent.com/78694043/197485001-8b89ea37-c1fe-44ab-bcc9-6ceaaea0dd53.png)
+
+
+![image](https://user-images.githubusercontent.com/78694043/197485893-40ba9a63-66af-41d0-9bb2-169867ef4ba1.png)
+
+### Most Frequent Weight (~300-500 grams)
+
+![image](https://user-images.githubusercontent.com/78694043/197485990-222d62fa-47ac-43e5-868c-14a3550b8d2d.png)    
+
+![image](https://user-images.githubusercontent.com/78694043/197486235-0eb214f9-aa67-41c5-84f1-acf0288c9e05.png)
+
+### Higher weight = higher price?
+
+![image](https://user-images.githubusercontent.com/78694043/197486297-93733268-0f8c-4e5f-8765-fbe37aac1cbf.png)
+
+![image](https://user-images.githubusercontent.com/78694043/197486373-0d100eaa-da3c-4e43-aa68-16a8f94bc64e.png)
